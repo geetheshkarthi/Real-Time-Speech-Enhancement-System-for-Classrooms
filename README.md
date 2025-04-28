@@ -42,8 +42,6 @@ Built using **PyTorch** and **Torchaudio**, the system is optimized for real-tim
 The system uses paired **clean** and **noisy speech samples** from publicly available datasets, ensuring a diverse set of noise conditions for training.
 
 > 🔗 **Dataset Example:** [VoiceBank + DEMAND](https://datashare.ed.ac.uk/handle/10283/2791)  
-(*You can upload your dataset link if needed.*)
-
 ---
 
 ## 📂 Project Structure
